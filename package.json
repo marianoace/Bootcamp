@@ -1,0 +1,11 @@
+{
+  "name": "proyectouno",
+  "version": "1.0.0",
+  "description": "Primer Proyecto con NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mariano Cedeño",
+  "license": "ISC"
+}
