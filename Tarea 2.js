@@ -11,3 +11,4 @@ var listaPersonal = [
   }),
 ];
 
+console.log(listaPersonal);
