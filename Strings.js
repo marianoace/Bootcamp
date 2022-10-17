@@ -1,0 +1,10 @@
+var nombre = 'Mariano ';
+var apellido = 'Cedenio';
+var estudiante = nombre + apellido;
+var estudianteUpr = estudiante.toUpperCase;
+var estudianteLwr = estudiante.toLowerCase;
+var estudianteLth = estudiante.length;
+var nombreInc = nombre.charAt(0);
+var apellidoLst = apellido.charAt(apellido.length-1);
+var estudianteNspc = estudiante.split(/\s/).join('');
+var isNombre = estudiante.includes(nombre);
